@@ -1,6 +1,8 @@
 # MX_Alps_Hybrid.pretty
 KiCad Library of custom MX-Alps footprints
 
+![Footprint Image](https://raw.githubusercontent.com/ai03-2725/MX_Alps_Hybrid.pretty/master/Screenshots/Footprint.png)  ![Schematic Image](https://raw.githubusercontent.com/ai03-2725/MX_Alps_Hybrid.pretty/master/Screenshots/Schematic.png) 
+
 ### Features
  * Designed from scratch using official datasheets
  * Made for use with Holtite solder-less adapters
