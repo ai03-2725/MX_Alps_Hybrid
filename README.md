@@ -11,3 +11,6 @@ KiCad Library of custom MX-Alps footprints
 ### Request More Footprints
 I'll be more than happy to make more custom footprints to fit your needs, time permitting.
 Simply contact me at the Mech Keys Discord group at @ai03#2725.
+
+### Contributing
+Feel free to create pull requests with more footprints. I only ask that they are of high quality, and that they are based on official dimensions, if possible.
