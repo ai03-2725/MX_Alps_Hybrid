@@ -3,7 +3,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (fp_text value 6U-7UOverlay (at 9.525 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -57.15 -9.525) (end 57.15 -9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start 57.15 -9.525) (end 57.15 9.525) (layer Dwgs.User) (width 0.15))

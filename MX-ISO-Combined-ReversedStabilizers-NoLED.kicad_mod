@@ -3,7 +3,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (fp_text value ISO-Combined-ReversedStabilizers (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11.90625 19.05) (end -11.90625 0) (layer Dwgs.User) (width 0.15))
   (fp_line (start -11.90625 0) (end -16.66875 0) (layer Dwgs.User) (width 0.15))

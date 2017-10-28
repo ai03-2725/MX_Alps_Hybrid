@@ -3,7 +3,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (fp_text value 3U (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
   (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
