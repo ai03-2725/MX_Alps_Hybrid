@@ -1,4 +1,4 @@
-(module MX_Alps_Hybrid:MXOnly-2.75U-ReversedStabilizers (layer F.Cu) (tedit 5AC9A314)
+(module MXOnly-2.75U-FLIPPED-ReversedStabilizers (layer F.Cu) (tedit 5AC9A314)
   (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
