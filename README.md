@@ -3,7 +3,16 @@ KiCad Library of custom MX-Alps footprints
 
 ![Footprint Image](https://raw.githubusercontent.com/ai03-2725/MX_Alps_Hybrid.pretty/master/Screenshots/Footprint.png)  
 
-**More images at bottom**
+### Variants
+ALPS-* - Alps SKCM/SKCL only.
+MX-* - MX/Alps Hybrids.
+MXOnly-* - Cherry MX only.
+
+-FLIPPED - Reversed LED pads for overlapping switch footprints.
+-NoLED - No LED pads.
+-ReversedStabilizers - Stabilizer mirrored vertically (i.e. for bottom row).
+-LED - Specifically for Alps, has a 1206 reverse mount position. Probably useless since not many people use Matias switches anyways.
+-Hotswap - A beta footprint. Kailh Hotswap, but modified to be resistant to being ripped off the PCB.
 
 ### Features
  * Designed from scratch using official datasheets and accurate measurements
@@ -13,7 +22,7 @@ KiCad Library of custom MX-Alps footprints
 
 ### Request More Footprints
 I'll be more than happy to make more custom footprints to fit your needs, time permitting.
-Simply contact me at the Mech Keys Discord group at @ai03#2725.
+Simply contact me via Discord @ai03#2725, or twitter @ai03_2725.
 
 ### Contributing
 Feel free to create pull requests with more footprints. I only ask that they are of high quality, and that they are based on official dimensions, if possible.
