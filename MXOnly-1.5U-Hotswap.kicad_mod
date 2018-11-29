@@ -1,4 +1,4 @@
-(module MXOnly-1.5U-Hotswap (layer F.Cu) (tedit 5BFF7643)
+(module MXOnly-1.5U-Hotswap (layer F.Cu) (tedit 5BFF79C6)
   (attr smd)
   (fp_text reference REF** (at 0 3.048) (layer B.CrtYd)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
