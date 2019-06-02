@@ -14,8 +14,8 @@ KiCad Library of custom MX-Alps footprints
 * FLIPPED - Reversed LED pads for overlapping switch footprints.
 * NoLED - No LED pads.
 * ReversedStabilizers - Stabilizer mirrored vertically (i.e. for bottom row).
-* LED - Specifically for Alps, has a 1206 reverse mount position. Probably useless since not many people use Matias switches anyways.
-* Hotswap - A beta footprint. Kailh Hotswap, but modified to be resistant to being ripped off the PCB.
+* LED - Specifically for Alps SKCL with in-switch indicators.
+* Hotswap - Kailh hotswap sockets.
 
 ### Features
  * Designed from scratch using official datasheets and accurate measurements
