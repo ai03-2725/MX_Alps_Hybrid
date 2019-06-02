@@ -1,4 +1,4 @@
-(module ALPS-1U (layer F.Cu) (tedit 5A9F4995)
+(module ALPS-1U (layer F.Cu) (tedit 5CF31DEF)
   (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
