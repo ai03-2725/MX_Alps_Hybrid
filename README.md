@@ -12,7 +12,7 @@ KiCad Libraries of keyboard switch footprints
 	* FLIPPED - Reversed LED pads for overlapping switch footprints.
 	* NoLED - No LED pads.
 	* ReversedStabilizers - Stabilizer mirrored vertically (i.e. for bottom row).
-	* Hotswap - Kailh hotswap sockets.
+	* Hotswap - Kailh hotswap sockets of both LED and non-LED variants.
 * **ALPS_Only.pretty** - Only for alps SKCM/SKCL, SKBM/SKBL, and clones with same pin structure.  
 	* LED - Specifically for Alps SKCL with in-switch indicators.
 * **Kailh_Choc.pretty** - Only for Kailh Choc switches.  
