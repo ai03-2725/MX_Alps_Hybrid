@@ -1,4 +1,4 @@
-(module "MXOnly-2.25U-Hotswap-ReversedStabilizers-LED" (layer F.Cu) (tedit 5D990471)
+(module "MXOnly-2.25U-Hotswap-ReversedStabilizers-LED" (layer F.Cu) (tedit 5DD9C85F)
   (fp_text reference "REF**" (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -43,4 +43,9 @@
   (pad "" np_thru_hole circle (at 11.938 6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -11.938 6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -11.938 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (model "${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl"
+    (offset (xyz 0 0 -1.4868))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )
