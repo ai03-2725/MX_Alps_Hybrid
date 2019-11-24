@@ -1,4 +1,4 @@
-(module "MXOnly-1.25U-Hotswap-LED" (layer F.Cu) (tedit 5DD9ADBF)
+(module "MXOnly-1.25U-Hotswap-LED" (layer F.Cu) (tedit 5DDAC620)
   (attr smd)
   (fp_text reference "REF**" (at 0 3.048) (layer F.CrtYd)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -44,4 +44,9 @@
   (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "3" thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask"))
   (pad "4" thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask"))
+  (model "${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl"
+    (offset (xyz 0 0 -1.4868))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )
