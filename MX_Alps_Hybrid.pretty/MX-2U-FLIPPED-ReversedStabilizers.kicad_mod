@@ -1,5 +1,5 @@
 (module MX-2U-FLIPPED-ReversedStabilizers (layer F.Cu) (tedit 5A9F4EE0)
-  (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference REF** (at 0 3.175) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value 2U (at 0 -7.9375) (layer Dwgs.User)
