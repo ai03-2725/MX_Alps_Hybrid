@@ -1,6 +1,6 @@
 (module "MXOnly-6.25U-Hotswap-ReversedStabilizers" (layer F.Cu) (tedit 5DD9CCF4)
   (attr smd)
-  (fp_text reference "REF**" (at 0 3.048) (layer F.CrtYd)
+  (fp_text reference "REF**" (at 0 3.048) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value "6.25" (at 0 -7.9375) (layer Dwgs.User)
